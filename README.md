@@ -1,4 +1,2 @@
 Hello, welcome to my GitHub.
-My first name is Yan, last name is Gurenko. I am software developer (C++ and Python).
-
-t.me/aboutqc
+My first name is Yan, last name is Gurenko. I am software developer.
